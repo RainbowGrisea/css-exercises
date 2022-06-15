@@ -1,0 +1,21 @@
+.odd {
+    background-color: rgb(227, 57, 96);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+#unique {
+    color: hsl(205, 90%, 42%);
+    font-size: 36px;
+
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#another {
+    background-color: #28cf06;
+    font-size: 24px;
+    font-weight: bold;
+}
